@@ -1,4 +1,4 @@
-# Hugo FixIt Blog Template (Go)
+# Jam Blog Template (Go)
 
 This is a quick start template for Hugo theme [FixIt](https://github.com/hugo-fixit/FixIt). It uses [Hugo Modules](https://gohugo.io/hugo-modules/) feature to load the theme.
 
